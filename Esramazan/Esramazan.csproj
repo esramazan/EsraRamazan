@@ -105,6 +105,8 @@
     <Content Include="web\images\bg1.jpg" />
     <Content Include="web\images\bg2.jpg" />
     <Content Include="web\images\imza1.png" />
+    <Content Include="web\images\incir-rp.jpg" />
+    <Content Include="web\images\netline-experience.jpg" />
     <Content Include="web\images\prflimg.jpg" />
     <Content Include="web\images\prflimg1.jpg" />
     <Content Include="web\index.html" />

@@ -82,11 +82,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									<h3>My Skills</h3>
 									<div class="w3_agileits_skills_grid">
 										<ul>
-											<li><label>Photoshop</label> <span></span> 56%</li>
-											<li><label>Wordpress</label> <span></span> 95%</li>
-											<li><label>HTML5</label> <span></span> 91%</li>
-											<li><label>PHP</label> <span></span> 98%</li>
-											<li><label>Multimedia</label> <span></span> 85%</li>
+											<li><label>.Net Core</label> <span></span> 30%</li>
+											<li><label>Asp.Net</label> <span></span> 75%</li>
+											<li><label>MsSQL</label> <span></span> 90%</li>
+											<li><label>ORM Tools</label> <span></span> 50%</li>
+											<li><label>HTML5/CSS3</label> <span></span> 65%</li>
 										</ul>
 									</div>
 								</div>
@@ -95,16 +95,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								<h3>My Experience</h3>
 								<div class="w3_agileits_main_grid_work_grids">
 									<div class="agile_main_grid_work_gridl">
-										<a href="web/images/1.jpg" class="showcase" data-rel="lightcase:myCollection:slideshow" title="Easy Profile">
-											<img src="web/images/1.jpg" alt=" " />
+										<a href="web/images/netline-experience.jpg" class="showcase" data-rel="lightcase:myCollection:slideshow" title="Netline">
+											<img src="web/images/netline-experience.jpg" alt=" " />
 										</a>
 									</div>
 									<div class="agile_main_grid_work_gridl">
-										<a href="web/images/2.jpg" class="showcase" data-rel="lightcase:myCollection:slideshow" title="Easy Profile">
-											<img src="web/images/2.jpg" alt=" " />
+										<a href="web/images/incir-rp.jpg" class="showcase" data-rel="lightcase:myCollection:slideshow" title="Incir">
+											<img src="web/images/incir-rp.jpg" alt=" " />
 										</a>
 									</div>
-									<div class="agile_main_grid_work_gridl">
+									<%--<div class="agile_main_grid_work_gridl">
 										<a href="web/images/3.jpg" class="showcase" data-rel="lightcase:myCollection:slideshow" title="Easy Profile">
 											<img src="web/images/3.jpg" alt=" " />
 										</a>
@@ -133,7 +133,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										<a href="web/images/8.jpg" class="showcase" data-rel="lightcase:myCollection:slideshow" title="Easy Profile">
 											<img src="web/images/8.jpg" alt=" " />
 										</a>
-									</div>
+									</div>--%>
 									<div class="clear"> </div>
 								</div>
 							</div>
