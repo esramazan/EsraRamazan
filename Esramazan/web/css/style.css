@@ -30,7 +30,7 @@ img{max-width:100%;}
 html, body {
 	font-size: 100%;
 	font-family: 'Arsenal', sans-serif;
-	background: url(../images/bg1.jpg) no-repeat 0px 0px;
+	background: url(../images/bg2.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -155,9 +155,10 @@ input[type="submit"],.agileits_copyright p a,a{
     color: #212121;
     font-weight: 700;
 }
+	/*-- //ana sayfadaki tweets followers  following yazýlarý  renk kodu #f32d2d --*/
 .wthree_tab_grid_sub_left p {
-    color: #f32d2d;
-    font-size: 13px;
+    color: #bd9a4c;
+    font-size: 17px;
     text-transform: uppercase;
     margin: .5em 0 0;
 }
@@ -246,15 +247,16 @@ ul.agileinfo_social_icons {
 	margin-bottom:1.5em;
 	text-align: center;
 }
-.wthree_main_grid_right_grid h3:after{
-	content: '';
-    width: 20%;
-    background:#f32d2d;
-    height: 2px;
-    position: absolute;
-    left: 40%;
-    bottom: 0%;
-}
+/*-- //soldaki seceneklere týklandýgýnda örn connect yanda açýlan sayfada connect yazýsýnýn altýný çiziyor o yazýyla alakalý --*/
+	.wthree_main_grid_right_grid h3:after {
+		content: '';
+		width: 20%;
+		background: #bd9a4c;
+		height: 2px;
+		position: absolute;
+		left: 40%;
+		bottom: 0%;
+	}
 .agile_main_grid_work_gridl{
 	float: left;
     width: 28%;
@@ -317,17 +319,18 @@ ul.agileinfo_social_icons {
     color: #212121;
     font-weight: 600;
 }
-.wthree_tab_grid_list li i {
-    color: #f32d2d;
-    width: 45px;
-    height: 45px;
-    border: 1px solid #999;
-    border-radius: 50px;
-    text-align: center;
-    line-height: 2.6em;
-    vertical-align: bottom;
-	margin-bottom: 1em;
-}
+	/*-- // soldaki yazýlarýn alt cizgisi vs --*/
+	.wthree_tab_grid_list li i {
+		color: #bd9a4c;
+		width: 45px;
+		height: 45px;
+		border: 1px solid #999;
+		border-radius: 50px;
+		text-align: center;
+		line-height: 2.6em;
+		vertical-align: bottom;
+		margin-bottom: 1em;
+	}
 .wthree_tab_grid_list li span {
     display: block;
     font-weight: 500;

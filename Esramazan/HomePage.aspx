@@ -9,7 +9,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-<title>Delightful Profile Flat Responsive Widget Template :: w3layouts</title>
+<title>Resume :: Esra RAMAZAN</title>
 <!-- custom-theme -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -52,30 +52,29 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div id="parentHorizontalTab">
 						<ul class="resp-tabs-list hor_1">
 							<li><i class="fa fa-user" aria-hidden="true"></i>About me</li>
-							<li><i class="fa fa-briefcase" aria-hidden="true"></i>my work</li>
+							<li><i class="fa fa-briefcase" aria-hidden="true"></i>Experience</li>
 							<li><i class="fa fa-map-marker" aria-hidden="true"></i>Contact me</li>
 						</ul>
 						<div class="resp-tabs-container hor_1">
 							<div class="agileits_main_grid_right_grid">	
-								<p class="agileinfo_para">Aliquam sodales dolor ac lorem vulputate, eu maximus 
-									velit semper. Sed erat lacus, ultrices in iaculis ac, 
-									laoreet quis felis.Vivamus laoreet ultrices mi, quis euismod eros. 
-									Sed et sodales leo, a porta turpis. Curabitur porta massa in quam sagittis vehicula. 
-									<i>Sed vitae hendrerit ex. Aliquam in tortor venenatis, iaculis nunc eu, 
-									vestibulum purus. Duis sed efficitur ipsum. Curabitur in turpis porta, 
-									tincidunt quam ac, consequat ante.</i></p>
+								<p class="agileinfo_para"><i>I studied computer section at Fahrettin Özüdoğru Anatolian Trade Vocational and here I built the foundation of the C# and SQL. 
+									In my final year of high school, I interned at Netline and then completed my education associate's and bachelor's degree at Beykent University. 
+									I made my associate internship at Netline, my bachelor internship at Incir. I have gained experience in the database, reporting area at Netline, then about ASP.NET and .Net Core at Incir.
+									We made ERP systems as a bachelor finishing project with 2 friends. I was involved in the management and development of this project. 
+										Available in Github under the name BeeOne ERP.
+									</i></p>
 								<div class="wthree_tab_grid_sub">
 									<div class="wthree_tab_grid_sub_left">
-										<h5>321</h5>
-										<p>Tweets</p>
+										<h5>High School</h5>
+										<p>82.79</p>
 									</div>
 									<div class="wthree_tab_grid_sub_left">
-										<h5>213</h5>
-										<p>Followers</p>
+										<h5>Associate</h5>
+										<p>3.11</p>
 									</div>
 									<div class="wthree_tab_grid_sub_left">
-										<h5>123</h5>
-										<p>Following</p>
+										<h5>Bachelor</h5>
+										<p>2.8</p>
 									</div>
 									<div class="clear"> </div>
 								</div>
@@ -93,7 +92,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</div>
 							</div>
 							<div class="wthree_main_grid_right_grid">
-								<h3>My awesome work</h3>
+								<h3>My Experience</h3>
 								<div class="w3_agileits_main_grid_work_grids">
 									<div class="agile_main_grid_work_gridl">
 										<a href="web/images/1.jpg" class="showcase" data-rel="lightcase:myCollection:slideshow" title="Easy Profile">
@@ -157,15 +156,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								<div class="wthree_tab_grid">
 									<ul class="wthree_tab_grid_list">
 										<li><i class="fa fa-mobile" aria-hidden="true"></i></li>
-										<li>Mobile<span>+123 234 4342</span></li>
+										<li>Mobile<span>+900000000000</span></li>
 									</ul>
 									<ul class="wthree_tab_grid_list">
 										<li><i class="fa fa-envelope-o" aria-hidden="true"></i></li>
-										<li>Mail Me<span><a href="mailto:info@example.com">info@example.com</a></span></li>
+										<li>Mail Me<span><a href="mailto:esra.ramazan19@gmail.com">esra.ramazan19@gmail.com</a></span></li>
 									</ul>
 									<ul class="wthree_tab_grid_list">
 										<li><i class="fa fa-map-marker" aria-hidden="true"></i></li>
-										<li>Address<span>123 Avenue, Amsterdam.</span></li>
+										<li>Address<span>Istanbul, Turkey</span></li>
 									</ul>
 									<div class="clear"> </div>
 								</div>
