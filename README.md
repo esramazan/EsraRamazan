@@ -5,5 +5,6 @@ Resuming...
 
 😄 Fun fact about me: I love steppe very very much so the background of the site is my village. I'm from Çorum. 
 
-![esramazan-ss](https://user-images.githubusercontent.com/46358535/144651825-dd30aeda-adb9-4d30-b6af-d1ba36d785dd.jpg)
+![esramazan-ss](https://user-images.githubusercontent.com/46358535/144656696-e87d62ed-4015-4964-a8d4-58250853ba22.jpg)
+
 
