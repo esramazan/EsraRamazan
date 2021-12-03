@@ -39,11 +39,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="w3l_figure">
 						<img src="web/images/prflimg1.jpg" alt=" " width="120" height="120" />
 					</div>
-					<p> &nbsp; </p>
+					<p> &nbsp;  &nbsp;
+					</p>
 					<ul class="agileinfo_social_icons">
-						<li><a href="#" class="w3_agileits_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="wthree_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="agileinfo_google"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+						<li><a href="https://github.com/esramazan" class="w3_agileits_facebook"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+						<li><a href="https://www.linkedin.com/in/esramazan/" class="wthree_twitter"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+						<li><a href="mailto:esra.ramazan19@gmail.com" class="agileinfo_google"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
 					</ul>
 				</div>
 			</div>
@@ -57,12 +58,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</ul>
 						<div class="resp-tabs-container hor_1">
 							<div class="agileits_main_grid_right_grid">	
-								<p class="agileinfo_para"><i>I studied computer section at Fahrettin Özüdoğru Anatolian Trade Vocational and here I built the foundation of the C# and SQL. 
+								<p class="agileinfo_para_e">I studied computer section at Fahrettin Özüdoğru Anatolian Trade Vocational and here I built the foundation of the C# and SQL. 
 									In my final year of high school, I interned at Netline and then completed my education associate's and bachelor's degree at Beykent University. 
 									I made my associate internship at Netline, my bachelor internship at Incir. I have gained experience in the database, reporting area at Netline, then about ASP.NET and .Net Core at Incir.
 									We made ERP systems as a bachelor finishing project with 2 friends. I was involved in the management and development of this project. 
 										Available in Github under the name BeeOne ERP.
-									</i></p>
+									</p>
 								<div class="wthree_tab_grid_sub">
 									<div class="wthree_tab_grid_sub_left">
 										<h5>High School</h5>
@@ -146,7 +147,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										<textarea placeholder="Message..." required=""></textarea>
 									</div>
 									<div class="agileits_w3layouts_contact_right">
-										<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d77944.63844269582!2d4.828574749828488!3d52.37459125089173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c63fb5949a7755%3A0x6600fd4cb7c0af8d!2sAmsterdam%2C+Netherlands!5e0!3m2!1sen!2sin!4v1485595363072" style="border:0"></iframe>
+										<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d385398.5897809314!2d28.73199448781479!3d41.00498228699285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caa7040068086b%3A0xe1ccfe98bc01b0d0!2zxLBzdGFuYnVs!5e0!3m2!1str!2str!4v1638555319933!5m2!1str!2str" width="400" height="260" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 									</div>
 									<div class="clear"> </div>
 									<div class="agile_submit">
